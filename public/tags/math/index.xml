@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on OneSentForth</title>
-    <link>onesentforth.com/tags/math/</link>
+    <link>http://onesentforth.com/tags/math/</link>
     <description>Recent content in Math on OneSentForth</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>kevinjasonwest@gmail.com (Jason West)</managingEditor>
     <webMaster>kevinjasonwest@gmail.com (Jason West)</webMaster>
     <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="onesentforth.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://onesentforth.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Math Sample</title>
-      <link>onesentforth.com/post/2017-03-05-math-sample/</link>
+      <link>http://onesentforth.com/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>kevinjasonwest@gmail.com (Jason West)</author>
-      <guid>onesentforth.com/post/2017-03-05-math-sample/</guid>
+      <guid>http://onesentforth.com/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 
 &lt;p&gt;$$
